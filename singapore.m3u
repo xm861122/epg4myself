@@ -1,0 +1,537 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="AXN" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movie",[HD]axn@@1[geo-blocked]
+https://epg.pw/stream/60d1a814f3b2abd27ed578ed604c654c1ce3e5c0931d9eaa3d5ab05c8bf85ea8.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movie",[HD]axn
+https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[BD]axn hd@@1[geo-blocked]
+https://epg.pw/stream/b877145fef982f4546704dca2fcc067a209ea663c03f0bcb8d8dbe3a5ea2dfea.m3u8
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/cf152ae6458e687e26be438eec307a3f90d9310365b82925cb112b0419008fc4.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/6e096289f968d5e1d256932c10bdcad0975672bc6c50ec40894bca0c57c5ebc4.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/9324852a9c9cf70211f7e3d7500992cb881e4316d21fd56648853a87b8b84d1a.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/2ad8f87c3aa3740f5ff70a6ce1ce56f1468847ad95f85d8bbe6e4209842dcd83.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/acb8c03c6a3815806a9b5086af2786de89cf680215529c16194bb8d8127b6046.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/60f111b5e508e6c64493313882b035e7bfaf0d0104de7616f10ff28c81719621.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/a1d95c77ad905dff0012422724c93992d01f9362959318913476a3fa7ad27840.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/c4169756c98d6b0dedd7bbdae3752ed79250fb16f166f5af32395a1ebf3d7844.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/2557ac18b65c39b974de8ae2c23d3ea0840a1de5419cfe76292e39391cfb4851.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/aa1b0df53dddbf0caf02d39bd6b80df0a66dcae92433c2a7e360bc98231a7bdf.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[SD]AXN HD[geo-blocked]
+https://epg.pw/stream/4c6c20b3c599dd3029b91d8cca425511f7906e142ace9ae83b4e252848c4f3f4.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/41dc434f7d80ef84f8c7ac2364907ddc59a4e1e60b3f6c34412dace614d8f879.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/cdfcaf39bd6a603c3c6fc4c173ec61d5843c5dfc780f2377951c483d3ac56dd8.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[SD]AXNHD[geo-blocked]
+https://epg.pw/stream/b213f9cbe20af8c8d31fbe02b5163801425d9e77a5519980553c71adefd5fc69.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[SD]AXN HD[geo-blocked]
+https://epg.pw/stream/584717a6c5461f3b47a9d18f6c2d012d6a8ba4efd9a7a6cd9e3ededa25c40aab.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/22397eea235ff4afa531eb4b243363611548ee53c79ec232393c9af58b17d00c.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/054bf034c13f40e934bedd8bfe63b91947304db519fba4f681668c618e7dd9d6.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/791621a53f91db3d3982c8ad341b196bb1edd5b09b7cc2ecbeabf0d2fecf4686.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXNHD[geo-blocked]
+https://epg.pw/stream/4aa5f983023a06f55112a0ccd6a41302e53977dc279e81228daccfeb98da68b8.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[SD]AXNHD[geo-blocked]
+https://epg.pw/stream/7e40fe8e3c18b4987d53d0db6e3cef767ca37f209238904aea979ccf60d4b922.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/47df2633c4348ba7df38b8650448da4d067f8e0da9bf5375af0ca900029a58b1.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/ee399018e816deffbf132be8ade3fb21c8f9eb33da43b1108140fed5de4f3038.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/8d770eb7383ad9d7569a33f0ab28c97b8ca519ba4ba6570e9ed2f7ce7abf2a3c.ctv
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Movie",[HD]AXN HD[geo-blocked]
+https://epg.pw/stream/5e0496776e705843124619d7b6071702b3d24a12e405a1a699394eb585bcb529.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[SD]afn
+https://epg.pw/stream/4f55751e9b90f35c0f93e348b0c6738edaf5580687bd732933fbe6ea44e1c7fd.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/12ff02f0fd5beb069cc52bf789799dc74dccb02016b319dc1fce01cf8c47373e.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/9fa1e7ae1518f83c3e1bf44baad38a50b1fc7876168c10cf433704520a01ed7b.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[SD]AFN[geo-blocked]
+https://epg.pw/stream/b29d0215c0c2a47c4ccb017c49d608ed09626c13f42537fd442a06c1d0901679.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/329211af82d8731099134760ff660a5991b62b77817d1dde6f93b844c94cb854.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/1bba57066fc54dec9a8f66caf7db28a72f5f2092450191adf9bda708338e067e.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/f3aff69552a680bf3a46c24b74a0c54a65b5fa8f831b2319c6129ecfd1838b8c.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/5d2d2c01bf4f0eaf11360176e89121fc0f17e29832fbb4886dc61fca40443de2.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/7e75827f7535ee69f508201669fe9ef96849cee4cc950e9a79337485ba644b6a.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/1571e8520e0664287bfd08056ffaa347296f7b4a41ee4281e9d28d17eadc4c5d.ctv
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[VGA]AFN[geo-blocked]
+https://epg.pw/stream/4d147716f6774f71af468b677c770952af9cb46e3f58e994a9a589fef0b388a5.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/12ba12792aba4763069ef2fe2ed1c54360598302ea70d4b72d220056183036b4.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/89e536a287d690f6796a1e79ff9c06919d34966f3ec926a3b1c1666fb210b167.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/44553e982de554ee926a6c97e69ebdddd782ab9efa9f0db30105b4fe5f5c2fdb.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/acbfa1a1dfb44d1559beb2e70b43b13873894fca4be11bb192c56f7014a46ed1.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/a34ab19527973d01f714d2cfba4455f9d75fd9d67ec76c3fa13bb2c0c13bae44.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/f4543d23ec142ec26e097c928e6473d846c9019f851d7330e3876d3edfb2ab58.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/fb0ba289ba52041cc6277704a847b05c94429e5c5f6ab5bfac9153d236effbb5.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/ff92217d98eb6588264af13312b19397f238602e994f601947273277e4eeec45.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/1a58e4882d5e23ae84f5c5c48317949b7c37d76dadd334f59fa0bfb426f06731.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/7bf1b19adee733905923208e5dc8a3abfd306ffe00d28171f81285a84c455d7d.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/0f2baf18534e5a76d94b9c38aa0a707e703ce4280ef3275958143261de83121a.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/4fd9137410dc2a6ffb625a44cce69edc0b06db5d9043413e67bf1f26c8b6e3c6.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/2911eae2ac7b5a88ddf7daa41138a3daaf1e96f4b7f3e604f6ce7c2a71b11275.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/ec23f9233ea821cc795913ec3a20ac79d96a7c36fc45013a8ce85e56f0be903e.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/cfcfb8e2087c90baf4148b23fac45da8e60762d36aef3d5614b2aadb2fcd4283.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/644887980521903aa2b5f534592fc679f741a55be0b2d8468eb7856e2c684903.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/d7fe8f66a2a36288af2e94f3c87bbdb1eb6477b881ce59c7500cdf512a02ddc7.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]CNA[geo-blocked]
+https://epg.pw/stream/eb14016c6331af78b4257b323ccdcf35f382b887176cdf1ccffb2267f16abab1.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[HD]cna[geo-blocked]
+https://epg.pw/stream/c05b4038386adf5b100d9601312e466a49597276fc0a4ace71fac119361a99b3.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna@@2
+https://epg.pw/stream/ccf5e14f7e1fa6458ec8cb958f9a54218f809449f273053f7c7808f479dc97b7.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna@@3
+https://epg.pw/stream/45fbe4d00b7481fdd6acdbd08c99aab1673ca00c2bf6e749cb7e87546dd0530f.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/966d7aad804abbc5a84f8ede773a05afa058a797e05a5672aaa695ac633bd1f6.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/14216b1083783b80215b72d70d077ef3e853be308b560df25c40c444d2c9eb49.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/0fc2c1bd1f2b1f7f42378cae9d8f6c88ebcbee9e6e3814c262cf9bbff086aeaa.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/9b81f116b344f48ca705d17e965180d1f1177d6f592735bd4b324b7d8801d48e.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/3a8b3a6bdd6227ca784ad7de267c33b8fa57e11f137c222986e3cd411a7ec15b.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/233634ce77c8164e38f9fa13237275a55972ae5a7880f474d37f6e16f67da8b8.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/1d5d4e90035440123adb6ec53d69f79d9be32579a4f727d9a3d1ad4a02bd19de.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/4ed7817a595ea8c1bff315f2903452eaa7e9a811bed19c9d6e862bc5b9e17070.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/032d18d3ea5fd9703310625694055575557bd9e8e498f53d385d5380a428d727.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/0d0e1eb68e759ce37d1c182650315671d029d9c57c4752f6a9becdcdb6bf062d.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/574a739bec0f1bba01a37abbaecbf9b4bdc2631aaf0c7cb8dae14fcc154d1f27.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/9acfda802eabe308f633bb1b23d088c1e4a18bcc2e61585ea9907cc7b3d95e65.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel 5[geo-blocked]
+https://epg.pw/stream/c16d2d03278485a873faf9846d1e3749fdda6437099f176b0b0fced5f10c0d66.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[SD]uk - channel 5 fhd[geo-blocked]
+https://epg.pw/stream/e1f3272b874426c20aa93099e46634f789382b843d0ad67dcfb040b69f985d97.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[SD]uk - channel 5[geo-blocked]
+https://epg.pw/stream/4e3e3ecce654a6fbb12309fcd80089bbcc725714b825b22b6d249849aaf024bb.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[BD]dc council channel[geo-blocked]
+https://epg.pw/stream/dd81fa293161561165301927731fa9510c695b4b2ed9b05b6c8cdccec9984dd0.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/7aa8f9193c066bb190a7930bc8aa8f56d774a4220d4b5b70090750cf44c59ac2.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/44d04f4a12c4f55bc856fb8c03092d8924b81686bd2efd19849825077720e0d3.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/6bcaa6b29f8c059bbfa764c100322473c38224661e3a4d9b3559a89772d94440.ctv
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="11833" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[HD]Channel5[geo-blocked]
+https://epg.pw/stream/696a01b52736d496a19485064c0da82b8442d1d5be39f003aea81f72f258fd63.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[VGA]ช่อง happy channel[geo-blocked]
+https://epg.pw/stream/2af08e755cbd4719e3ac71ee4f338109ccea10c30587d8720df4663107b61bee.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[BD]on e channel hd@@1
+https://epg.pw/stream/8dcdf0557ab28148d0c8d9cef62e93a9a6ae8e08bdea16cebf6abebff5348e3b.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]lakewood channel 8 (lakewood co) (720p)[geo-blocked]
+https://epg.pw/stream/2e79e27c5d24669efec3be95fd99bee16c5fdc2bd9a45e9b33b9f677c9b6ecb4.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/3994bf6070733ea561439ed84539846383605015baf60f92431820e4d1fa2bbf.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/775b249cba5838a431e1fee96e6a2973e62628820382c9e60ca3a25b7ae6fea0.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/76734f2fd7b033f1fb7a5b5ad32e1c5c4d1ddc54d3ebb8309c14a9573e0415f4.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/cc151154bb16ff14c1a8502c2b768512432340a7be1477b815d02d73d7ea4c87.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/daa3fbaaa93f76f888f46c2e425538fac4c19ab891894385681593a54d6cd4b5.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/27dc5ca246c235e4e02fb5685b992ceed7e24664f6222f6d06141fc4e46f5e56.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]c+i channel[geo-blocked]
+https://epg.pw/stream/9f32aec67c2e9007e37dc7385e42491bc811c4148e6c5794ee98cfb93846d44e.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[SD]pt - euro channel[geo-blocked]
+https://epg.pw/stream/50338f059794d17849dad4df84b30cb6c1f257373eb0cfd5d69d20b39ddd6cf2.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]ind - desi channel[geo-blocked]
+https://epg.pw/stream/fc5ea33caffba5fbcb446288da11540dfec3cc134fc743f293733e4d8e2f3a5b.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]lakewood channel 8 (lakewood co) (720p)[geo-blocked]
+https://epg.pw/stream/1a96e91320a542c71fb39d7e38b68424fe857c79d71c8107b52c566aa12708ff.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[VGA]the beach channel
+https://epg.pw/stream/9c37b19ac5c2d440a289292b689d03791cfb6310d84ee401dc520c0b4e95ae11.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[VGA]calabasas channel
+https://epg.pw/stream/c69856ddcc46f4e9fe281a6b11383bb02dd9e2b498a088a4125b078425fde8b1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]ช่อง dove channel[geo-blocked]
+https://epg.pw/stream/99411ecc7557b2ae090e2851c643707153a6d656aad25dfe014e0c8a62dab773.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[VGA]ช่อง ราม่า channel[geo-blocked]
+https://epg.pw/stream/94a4fddb85283c7fd52198f4a45ff342dbbfdb740a25a5497edab134365efbb3.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]ivoire channel
+https://epg.pw/stream/21bb1b8509dcdb1ad152a2565f769d4ee48bf4f9a8b30f99d8a24027d56bddd5.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/d410b16153dba49a46848512e0db718bb51c360cd79723ce1d26bdcd183b7e58.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/b3dfc69b4cfb7e7430e2be571fdae1fcb61e386713275d571c4a7313e06e1287.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/7ca3fac96fde9ea61b1af6b1ed55ecbe24f0f0701dea6a941bb6c402e3125b6a.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/32fc00d63f5fee6a8ec6885c62f2a0462a0e08016a9af8506d8ccbdfebc75496.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]reelz channel@@1[geo-blocked]
+https://epg.pw/stream/e2b6f2f88cf28cfbf081cc1ba41b72943766f489c54217708f58c2f659871a53.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[BD]泰国-white channel[1920*1080][geo-blocked]
+https://epg.pw/stream/b109a1f2e8f8c8a0b1ba6d46b779cce60107d6b27e7cce1622818bad7b1f645c.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/57409464a3a23e3c873c3bb6af6615db707c5e083c84292f2f3a1c1b7b0568ae.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/6cd6d06cd9d2ccd25da600e7bd10476467e46e2076d21f1edd30736f575680c2.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/3093238b3990ec259ea2bb803b609ff4c49ba7ded22aac3a2a8af1822df7b0b4.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel 8[geo-blocked]
+https://epg.pw/stream/06355f32a0c47e9256be560a4ff7df675a42fd18f657528b38d56b80d7a1b9cd.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]Channel8[geo-blocked]
+https://epg.pw/stream/492367a858038a620331dd5b880f5191291f7ea02f5f58ce4da9d6c477b49265.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]kqsl channel 8
+https://epg.pw/stream/c19b7a47d8b9d97560a2001fb1565f49a6b7c8153999f09f2d70ff19dfaf50a2.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]chomyut channel
+https://epg.pw/stream/0a3455507a7797a706083d7c8f3e51389952946f94d1201da2354fce61294306.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="11834" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movie",[HD]perú channel
+https://epg.pw/stream/c775e66f61878e8dc0796d144f7f13f328fe9a9d4479994e10dd286a6072e2f8.m3u8
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/47eaee5ee0e663d4c6386e2fcc0af3af1ddf896a547a80e319653b2b63e26bbb.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/8911070fa778ff77174eb3a92b66fa537a712fad8b86b5a4d8fdfdad5e1fb678.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/2bfd9ac741a6efe3062bbb012bb23ac52f6b86d8c1be40a798e99f89df1623ab.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/773b066135eb4abab52607818eb7f78972d1a25e5f49b2399b639833a0b50a0a.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/0dc578e7ff51b9105f2b8f20566137f27654d3802956279dfa1a8736cc55f526.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/d4fb89a4c0fbfab54b6491f433ff616f190430bf0d8874b58051805844c67e8c.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/002e40bd6ed403cf98f557c56cf37eb3278e89d66aa62ce9be6fadfbc47923a8.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]Channel U[geo-blocked]
+https://epg.pw/stream/8dae0d745faeb12d47705b2f26c15a51ea42ed5817cef6cbe77740ac9b487185.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/ec8d01781d733e4f1d7394683050876ae101f8dec426f0feaf370342109c23e7.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[BD]magna channel@@1
+https://epg.pw/stream/0008335b7f0b91f90f4da987962bd611d47091b65c4ddd05aa73139e5e7e1b4f.m3u8
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[VGA]omega channel[geo-blocked]
+https://epg.pw/stream/f747e7889d1f7e21fca76031a1cccbd644868b1c3614ae863b58629b87eec4a3.m3u8
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/63b1b3c3f4795edc096d2184accda26d37cffb7eab6ba98c838fb321c175b203.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/ee68766668c8d88469c448c631e87c526515763663989ada40503e943f7c3852.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/9cb8ff4e5d60033cb2fbceb8cb77c8fdddbb998a2aeff6096ecaea3197ed55fa.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/362c1193594a98a90d63bf835fe3fbbf3e891715c9e919c0c078cb8e0e60b912.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/8c25094f7e30881724a72055c4bd346734d58ad0824c93e34a49727fe91e89a3.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/892e369aacae1ddb762f8eb150080acd946511923ab25138663bbb9457fe3ee4.ctv
+#EXTINF:-1 tvg-name="Channel U" tvg-id="11838" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[HD]ChannelU[geo-blocked]
+https://epg.pw/stream/e751a6f28371e859c045e79c3db45798d5c886f3fa6b25213c280977e40dc5ec.ctv
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000625090581_44.png" group-title="Movie",[SD]srb - pink world cinema[geo-blocked]
+https://epg.pw/stream/dec9addc7f6b6ae35f53dcb99c7882b62f38272d37e3013c74034542b189b9ed.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/7506e1994d0f220b646fc28c88df3724b7154aea454aa98a48c5f17f1c08314a.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/ef684e310a7e64bc0e3ca9f5a59641b16c895349bdd0ff30222d9f7118d7e9db.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/d4e8dbf303183543c677fa5d87135ab37dac3090af60b9301ea197c2f93c6063.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/c2d154bd4fb9c51ba766619aad0f6b03bf06f7250fcba3ccc2fd8ab7226c9b55.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/819d99761a9e4a42b67099d782a3acbbc6d303009af4dc527793c87c03877843.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/efef4c05c0fc3dbfe3ab5d968483c093cd04ae3cd56575022e19e3ea9ccb9420.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/f573334fee7c13565089b9fead7edc014c87f10d864473573df1c374f909d6db.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/e11acb44392e723ac8de1cbe74a9a5b24ae96991614d8ec9dc260845683c3501.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/588421e5aab71805124e775d42c84fa3c14f2a8f0a66cc755af541a4a43d4c13.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/9cb8c53a4cccfbff1d9cafa33d4dfb0b222a3bca6188ed3ad7f1569a21dd1e1d.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/6ef629dbd4ecf4db58caec5808ac94cc72c6ab482c9ac25f577e26393992ab21.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/27a9302d6ec30011255ec20c36f586ffd4336bf87167edba30b68405f480706c.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/906af64f0f8e2e5a666c49ee65336fc1b0573e10dd1182f1b03557ed8e3b0422.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/4e265161b4a5ca0689c1aec58a17720165630fd0119b787fd9c626ec1258f446.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/3ddc614677ec7369a5bd959ef28e82d7fe5bc4b5bdea35266aacd5bac54d2e11.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movie",[HD]CINEMAWORLD[geo-blocked]
+https://epg.pw/stream/afda362904cb081ca22ac54e870b13209eeefd45671881c77a46f527cccea9e3.ctv
+#EXTINF:-1 tvg-name="HBO(SG)" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/10/31/large/20231031053758935071_94.png" group-title="Movie",[BD]myx philippines
+https://epg.pw/stream/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.m3u8
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/c9d0c15841daef7e56cfc1b7362b8552ee2b12fb0db9c7abfc701164fa0a2f33.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/de62fe6d679a3e729cbf7c2abad0eb85b38aeb78d071cdc829b7fba463e75464.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/f09404bedd8eaa4c470dbc610c68747f4b3440da001e8e273b0afc1e221e3081.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/64ca46b1a48c9233e3778e04748c90de57fb52f09afc7fead7040733863fe4c2.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/1b966bbc0998b8cab4d4813c57c2131a1d2b04b19336d477420d947bf760952b.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/8d8f9020ab3535f71e4b792e8224f213250cc17de35136c907beedfb9e39f003.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/b3349028a3fcbd11a4632004adc38de2ce83991f08cdc2c68917d89e390fd449.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/39f0dcb5fda18db000b59d8fcc4fee52a0a6bfcfd98fb60812a98007c9615624.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/a601f3378e81fd0321da3cb8be0e008ca0487a684f56be1ef81de8aa42b309ec.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/d1d6864dd56292a22d65bc61354d90c4cbaeea66108bfde464ab3b97e036500e.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/ee974fe2bc2d26ac18f9019a8a576b62c10788d868d7b46c40d169229be6dccf.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/9a29f91f1ee32fb4d7b60ded8e4ccfbe58c8743c8e162fa9da9d9e55352a712b.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]Hits Movies[geo-blocked]
+https://epg.pw/stream/5bd4f80ce036f5622e676ddaa318cd08cee58f2f475afb7d753d54d63efc7c56.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/aec1f6eb1bf2f0f48c5010d16a1171219c3685e8501373bcf12aca3dce700c99.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/b26c2bbfe0acdba1ba8ee19781c997138550b8f4958966952c7e7fc2ebd8e950.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="11823" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movie",[HD]HitsMovies[geo-blocked]
+https://epg.pw/stream/9342bbe8383e3e72dfee6e0d3160125ed98ef15aa31fac8d68aefe5789b8a0c2.ctv
+#EXTINF:-1 tvg-name="Miao Mi TV" tvg-id="" tvg-country="Singapore" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2021/11/27/large/20211127205230879930_34.png" group-title="Cartoon",[VGA]miami tv
+https://epg.pw/stream/0043c1c9b36638faab7a477247b9f39584f66b500d924e2b34a4c11044c628b6.m3u8
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/a5a1e13595e063f8dd6b806a78586473256eafaf9b6315882f61a0c9297f4690.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/acd2a973db9aa2f94de88926080784cca5d317bb219d9a15d0df2611796de3ee.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/afb6270a3f2950ec035265987976981fd933b459c597b1f06899904b5359d6fa.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/fc5e79dddab57babeb83f8a1d80a6e0975db0476b6f6f769e0fed4e2924af2cc.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/5ba4dfc06bb28b3281af3760ae12d79ef7155269e26a1d97f15112c28434a229.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/a150f9f415d9040e5c05b643ea1df27f28f635107f6c8a8b56bc3c92b53a828d.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/f2ccbb21974df77c6a4595b6b8e70b35af41fc2aca43106716d20238d4adad2c.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/f74b8e9a59b182c4cf983639d999b4dfbc4a12cc9ae9b2f12d99b42fe0c59f8d.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/34f46097ac791e80ac85ed638c5d98ab68e97907fdb13c0056b41266baaceeed.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/c812ea7a65d89dbe0480b1d91e825c48b429f5cd20c30eb3900b849c0448bbad.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/406ffdeef00f0b4a20e392415be03e59616f38035a4b3b3f10079c70b6717672.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/54729ef3a6a0c6cffb042a13154e852a1a75ab91c3d666c44ea6b77a3469002c.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/36e884d7196a721f1074f7cbdbd5b49e7185ab79e95468bc9b9dbf8abe7c1bd8.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/d572648c2ef22bf2d9899638dbffea82c5db4337f60bd6274fd8e57cff2a1e08.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/f421f10bca2db43a8ae7d2a5e66a1dc4474f13e07f25bbd4cda8e9b253c01343.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/77784d2d27d430433bbfd67d5f15752ada39012d7255d8ec0d53622cee9fb028.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/2c0f2a6974134fc75f7aaddcf4000082e114ff28538d92dda0686f4d3fe54e88.ctv
+#EXTINF:-1 tvg-name="OH!K" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228212336807784_96.jpg" group-title="Movie",[HD]OH!K[geo-blocked]
+https://epg.pw/stream/e87f2df9941eff5791f08fb9b56913b4abe157b27bfbf97170723de7a344afb3.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/1a70676d38a46b933ffba6eb0868bf4348fef829da08105c80b73e8326a97972.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/ccc7613013116ae64c1e63169e22ef5a4718580dc35333c381e9dd26527d6d50.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/ad41830483c57c3f1c87e6fe0a8f58c4797be11b2e31ded9e8f176a2fdab7edf.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/0e6d560bab01c8ed98df2a17e864714644d2bbe826c1e04ee6e86db4c8aadcfc.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/066428f3a5f4175cce63cb7a476854454dccdf2d67ea5f08f4d228dce08f58e3.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/85ce2f75b332f4fd0288d67f65bd069f5958f7731589a91b849c5fe7b35390e1.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/cf11172cf06253abd5a8b905518ec4c5158027253207becb0ed972ee02a758c4.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/135636fd3c22a6c24c0ea0f0832764ad73b8c2f42faf83e96874b0760c818413.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/222f7b8b2eb7d74a1859b4dd26130652df4ca468315809386c14acc62e368f08.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/2efd022678087248b3222bf0b1ddaa9c4855e00168937d3d01576f298900ae70.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/bdfb518f3014599fb04135f0250bd715262d66600356569869cf7704e5d72d7f.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/ea1bfb7ed23b7589ed235898456050e46e51ad7afcd38f2a58cfdfdb21eb8596.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/f321d719da95f48c18b240ef0b9e61d97068b853e36292b02c9f48e7952cd47d.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/03cc624d876b7070c54ec60bbedb6f4c3ea67a1b8b5bfb78f01933dbd25c1119.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/5f32becf9078915c6dbab8c5287310333cda8df247c8553811d5d7ab27936314.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="11835" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria[geo-blocked]
+https://epg.pw/stream/f997e07cf396972aa44e867bcf9e77f9b4fb5593c7c2eca780e61c575300ef78.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/b51725796bc2cc433b5b561c737ebe375a18b26df600f68aa0ea1f3e476e0a94.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/5050cd9b77809d63a2600319093a4f80a5325b5c878f46119a033edf3933392e.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/8d263bb0cdbe43d4afa7ee53c2663a96d0373f7a6cdc828cb1ba09698a2a1a29.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/6eb90ea33098096569b86fb05b94cb253df2ecdb4a5b2b2b48e77bc331f8efa2.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/617a1628bd0909b02430085e1dabeb3d0445b6e9d8fbb0fa6a9375b6ff794ca3.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/b9d05ef60746d66414be84a4e69b89b0748e099f6e6bcc4288117994da41d676.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/6b477c6352628dfe3ec72e9f1a3a637e104556b605787aee04959981cf8f4ed7.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/3eb405bc6a6b2277dddb184eea7d3eadd767d135d286905c1558738076f41ecf.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/51a95962d8466f67fda32678a7038666c843a6f431487f59a0566e1910c5740d.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/afc736d51adb5a37494cad156dfc9a022a33c24b675420cbf33ca982afd51846.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/e8589706c364816eddd290938a431705450e556ad75fe4f5ec9332fb6a2bcac2.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/c5169efeb3e7040db82414833ddcf6c7307d70f48270416f8345a9abc9de7518.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/bb94472950c02a9bf4cfbf912e5f4aa5c9c05b35a6bd815b92aeb6cadaa24084.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/c2d3c9be4f80c73c04c07892eba435f2dcc094e877b480b2c5685f2c8e79470c.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/339dd6643e935f4d94dedffdc880d19ef6812c169e8213d18a181fbd6d647c09.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/09eb8ff9f8916a6bbf8372ba98efb74d0a85d7a304b82255715d9803ca21f691.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/b8b612c8139fc6d8440735ca2f3cd5bbb757a1c817e397c912aba56d193a2f5f.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/afd83cd4d8b7f74698b9d2c8be8ce81b13183e42acc41d665dfb4e05d35dbfa9.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="" tvg-country="Singapore" tvg-language="Malayalam" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movie",[VGA]THRILL[geo-blocked]
+https://epg.pw/stream/469cb2d345d1fbf621897b85f66a6c6c9b391bf4aa0cfac33240a76209bcffcf.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/1db72572c4111b56f1e6c916ec51babcfa78da09c6884fff9231f0f1be109c0d.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/5a7df1318090e903c2b06b575509cac85faed25642a8b9accf64125500a3eabe.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/cb9823d59cd465c59c1db2da0f88a5c26972599c4c5884369aa88caf0268472a.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/436e9d1e50cf91d5d0f40c45ccb3f59259314ff85c77f88f70a5bdfdbccf5733.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/545d9daac0cebfae436c4a030ce1aa1d4b46e558da95695b068d4b5be11018b5.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/b6a2d6adc6d97698b0f4c4967e9e25326e1eece41806343d404ca3aca12243c0.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/518bca35b2ff50ff1ad9d08b284ca1fb5f36d640afbad05b9a985e0e619817e1.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/3564c1fc73614dda448abaec744427873c344cda17b29c24837d99041f78d102.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/71421baa01300e5cbe203251bdae687db370510d9ef406a8251c40930bcd0667.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/6229ddbd964ead1023f905bfa6bfda6d654c6b9d378446a110cc827919a68e6c.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/96dd549b7dc4da4a3c48ba9e1a5de56e26784d5bf36511da7f66bdc5af159b29.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/489d5d741f1b1218daa0a1d9fc9ea06fe0edfba96a15d0dd934100ea96764cff.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/bc770266dfc789b41da59312e857b30113384d53a40a74494d7e5fdd15fc7bd2.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_125.jpg" group-title="Other",[HD]TLC[geo-blocked]
+https://epg.pw/stream/cce21187bb63b97415a8d00a8c96e4b9f2d01234e22371875f236f427c52ed64.ctv
+#EXTINF:-1 tvg-name="be tv" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022230935103_58.png" group-title="Other",[SD]be tv@@1[geo-blocked]
+https://epg.pw/stream/0760d232ad9c68b4d47174a7f56e3091dd3123f4a12716f622c60f728117c9bf.m3u8
+#EXTINF:-1 tvg-name="be tv" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022230935103_58.png" group-title="Other",[SD]betv (360p) [not 24/7] [geo-blocked][geo-blocked]
+https://epg.pw/stream/d118662cf593156eeaa10c9b26838d84e80fe2d0e81064478c2b1d5002b47474.m3u8
+#EXTINF:-1 tvg-name="channel newsasia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="News",[BD]channel newsasia
+https://epg.pw/stream/20114395c5485e5428c542ade361e74c84daf5971c8d033f60da507677887152.m3u8
+#EXTINF:-1 tvg-name="channel newsasia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="News",[BD]channel newsasia
+https://epg.pw/stream/10785b1f26a6b03c110f6b7f6e75a27ddfe610d2427df09ebfacec4f2954b859.m3u8
+#EXTINF:-1 tvg-name="comedy central animation" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625231317409396_23.jpg" group-title="Entertainment",[HD]comedy central animation[geo-blocked]
+https://epg.pw/stream/aa615fb47abe5996b79051fbb10e86e6c17dcee1ed601e48a6a1f3baa8c9c56c.m3u8
+#EXTINF:-1 tvg-name="diva" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/DIVA.png" group-title="Movie",[HD]diva
+https://epg.pw/stream/c8e423ede0bc72cac0624b86b4e322679257cb9846e198aeb71e2643044ea519.m3u8
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[VGA]hbo hits
+https://epg.pw/stream/427e03dd99563179c24b5d7b2323de6ab3ca3b65b8b941e90c4f0e4edd54612a.m3u8
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[BD]box hits[geo-blocked]
+https://epg.pw/stream/e0e3cebcf428f4086cc29be993da74b53013be009f04e194e442b8fe764083a8.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]hbo hits@@1
+https://epg.pw/stream/c9f94c29357790d04a2e1bf4d0131f5c26aaaa8547b5e1c7bea9acb6a96d2f18.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/f72fd304453f2358312bfb71a6bf8a087cccafddaa6b800ef9d89909ea4476c9.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/82b031d19679c6eab0489d16ee698e4cae2d6328dbd28eede26c304843653715.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/033342ac341798b891a619db8f801797ad4ce3cd81115cb01a8e279374751a1a.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/1024b11a717ab6c2c6fc6028ba5338f059a422b73ccf7cc411b5312a435c9d1a.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/a729e9df1b550e88704998b9f3d6d523b8c43d7e9ccd9c12ad05d1c190073294.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/e79256c21c0ec679f2645b2c66a402cc79467ea40891fd2596a0320686c18146.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/cc5b227ecd4305fa3461f10d80319f96b4b2abd3b076e7730b55bf8166da8d79.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/4839281512052f526fc8c9ba314b25d0313dfa66f77588267acef9b12684e095.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/41c89ac707976c60753652b74e1cb169d9cff3f4b1227d7086a9a67344afda06.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/ddeec7ff38f6ed074d6a078bccccc039ffde10cb1edb1034c2248b814261f937.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/c3662ac0b614acff69fb4273c5884a9d286e43cb65c6a792c1fac49d8bb1159e.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/6e901ef9fa40054187f9f636a590ff4e9b184836b538e1b6daf997c385d1685c.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/6f8c6ed3cf57d3e27d54691e9f2382799f0fca3c8863091e12897c1532fe8135.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/8eab9ab4b90316ab661d3201899122adee5809a9b3cb48a30c15084a490ff3e2.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/c3727faa6a0d53d28ee8306a983fe7b66faf93e0e4872810caad74f511eda6af.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/aae2b2fd92925809f6a16003e7abeed18537610aeeaa35b4204f2038010cae65.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/74cf4c7138690ca17f8e39d54779a0c0b4c97d725228b8eb7470267537ce96e0.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/00056ba17105dd6196cfec501b0529c10543fe45de36efe016091b455ff173f1.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]HITS[geo-blocked]
+https://epg.pw/stream/b9bb463c9536b7790ab8ce4356d94e2665117b9eca41141b3c5299068c67481f.ctv
+#EXTINF:-1 tvg-name="hbo hits" tvg-id="11825" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="Movie",[HD]mgm + hits
+https://epg.pw/stream/c14eb790463e2480e1f7449e1d739756c0d28f447755c5ccf7748b0b5a385fda.ctv
+#EXTINF:-1 tvg-name="history film channel" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[BD]history film channel[geo-blocked]
+https://epg.pw/stream/01cb9ea8df510390786c7a76905a855106eea5c02cacda899116297e7ef6fb7d.m3u8
+#EXTINF:-1 tvg-name="history film channel" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Other",[BD]history film channel[geo-blocked]
+https://epg.pw/stream/b57974090e75cd2006b1b4160c486f933f6f24cf51febdbb25c335d71ef5ea28.m3u8
+#EXTINF:-1 tvg-name="m2o tv" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/975f6e97f9a2f1d458e921173ff8ac7e.jpg" group-title="Other",[BD]m2o tv
+https://epg.pw/stream/ada97b1864e2f6b948f92196d9c59e6644b6c6f9c956f5e66cfc440917b0e08a.m3u8
+#EXTINF:-1 tvg-name="okto tv (1080p)" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/28/large/20161228004148018515_47.png" group-title="Movie",[BD]okto tv (1080p)[geo-blocked]
+https://epg.pw/stream/122d263bb30b5181c383286ff175a355571bb0addda7343f3c3f662d52308a41.m3u8
+#EXTINF:-1 tvg-name="one hd" tvg-id="" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/sony_one.jpg" group-title="Movie",[SD]one hd[geo-blocked]
+https://epg.pw/stream/d8fe1463daa93d21442c296ad54acf2288ba6fa42b09bd4517aa09ea6b44e293.m3u8
+#EXTINF:-1 tvg-name="sony channel" tvg-id="" tvg-country="Singapore" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png" group-title="Movie",[VGA]sony channel@@1[geo-blocked]
+https://epg.pw/stream/7d92a85f39d58921e957d7dc4a1fe7fb4a5a40cc8f855de0c80e98d1a76db8c1.m3u8
+#EXTINF:-1 tvg-name="sony channel" tvg-id="" tvg-country="Singapore" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png" group-title="Movie",[HD]sony channel
+https://epg.pw/stream/cfe345bf1d27afb5f3feec22d6f712f92cc2ecc1d6fe9a8077c1ab2dd9e5ee76.ctv
