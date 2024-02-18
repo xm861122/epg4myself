@@ -1,6 +1,6 @@
 # 说明
 
-IPTV address and EPG live address collected from Internet
+所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 
 从互联网上收集的一些自己喜欢看的IPTV的M3U格式直播源：
 
