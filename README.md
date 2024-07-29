@@ -12,4 +12,6 @@ https://epg.112114.xyz/
 
 https://m3u.ibert.me/
 
+#Adult
+https://tv.iill.top/m3u/Adult
 
