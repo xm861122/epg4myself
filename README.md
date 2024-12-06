@@ -15,3 +15,5 @@ https://m3u.ibert.me/
 #Adult
 https://tv.iill.top/m3u/Adult
 
+http://xn--ihqu10cn4c.xn--z7x900a.live/TV/tvzb.txt
+
